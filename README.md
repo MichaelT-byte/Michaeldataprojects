@@ -2,26 +2,14 @@
 
 **Workbook:** `Data_Technician_Workbook_Michael_Thirlaway.docx`
 
-**Focus:** Core Excel skills, data ethics, and presentation of insights.
+This first week was all about getting comfortable with Excel and the basics of working with data. I started with some of the laws and regulations around handling data (GDPR, Data Protection Act, FOI, Computer Misuse Act), then moved into practical Excel work.
 
-**Key Skills:**
+**What I worked on:**
 
-* Understanding and applying **data protection laws** (GDPR, Data Protection Act, FOI Act, Computer Misuse Act).
-* Data cleaning and organisation: converting datasets into Excel **Tables**, using **sort** and **filter** functions.
-* Core formulas:
+* Turning raw datasets into tables so they’re easier to work with.
+* Using formulas like `SUM()` and `AVERAGE()` for simple calculations, and `IFS()` / `SWITCH()` to classify data into categories.
+* Building pivot tables to quickly summarise sales and customer data.
+* Creating charts to highlight trends, such as customer drop-off at the 12-month renewal stage.
 
-  * `SUM()` for totals
-  * `AVERAGE()` for averages
-  * `IFS()` and `SWITCH()` for categorisation and conditional logic
-* Creating **Pivot Tables** to summarise data across regions, products, and demographics.
-* Visualisation with **charts** (line, bar, pie) to present retention and sales patterns.
-
-**Example Tasks:**
-
-* Built a **retail sales pivot table** to analyse laptop, printer, and smartphone sales by county.
-* Used the **SWITCH function** to categorise sales volumes into High / Medium / Low brackets.
-* Applied the **IFS function** to classify car top speeds into “Very Fast / Fast / Moderate / Slow.”
-* Designed churn analysis visuals for a board presentation, showing customer drop-off at the 12-month renewal point.
-
-**Outcome:**
-By the end of Week 1, I demonstrated the ability to transform raw Excel datasets into **actionable insights** using formulas, pivot tables, and visuals — while ensuring compliance with data ethics and legislation.
+**Example:**
+One exercise involved looking at product sales by county (laptops, printers, smartphones). I used a pivot table to break down totals and then applied the `SWITCH()` function to group sales into “High / Medium / Low” categories. In another task, I built visuals that showed customers were most likely to leave at the 12-month renewal point — something you’d definitely want to flag to a business.
