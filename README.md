@@ -71,6 +71,8 @@ On the querying side, I used SQL to:
 * List cities starting with “Be”.
 * Identify the most populated city in the world.
 
+  ![SQL Example](Images/sql1.png)
+
 **Takeaway:**
 By the end of this week I felt much more confident with the basics of SQL — not just writing queries, but also understanding how to structure a database properly.
 
@@ -136,6 +138,7 @@ I also worked with a GDP dataset, using Pandas to display subsets of rows and se
 
 **Takeaway:**
 By the end of this week I could confidently use Python and Pandas to clean, transform, and analyse data — a big step up from where I started in Excel.
+
 
 
 
