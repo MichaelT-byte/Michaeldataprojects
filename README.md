@@ -127,6 +127,9 @@ The final week was focused on Python, with a mix of coding fundamentals and usin
 * Created pivot tables in Pandas to summarise data by class and gender.
 * Exported transformed DataFrames back into CSV for re-use.
 
+![Python Example 1](Images/python1.png)  
+![Python Example 2](Images/python2.png)
+
 **Example:**
 Using a `student.csv` dataset, I:
 
@@ -139,6 +142,7 @@ I also worked with a GDP dataset, using Pandas to display subsets of rows and se
 
 **Takeaway:**
 By the end of this week I could confidently use Python and Pandas to clean, transform, and analyse data — a big step up from where I started in Excel.
+
 
 
 
