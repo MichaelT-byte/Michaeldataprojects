@@ -29,8 +29,10 @@ In week 2 I moved on from Excel into **data visualisation tools**. We looked at 
 
 **Example:**
 With the health dataset, I looked at cancer rates across countries and compared them with life expectancy. The scatterplots showed that developed countries with longer life expectancy tend to have more cases of stomach and lung cancer (since people live long enough to develop them), while liver cancer rates were higher in some less-developed countries.
-![Graphs 1](images/graphs1.png)
-![Graphs 2](images/graphs2.png)
+
+![Graphs1](Images/graphs1.png)  
+![Graphs2](Images/graphs2.png)
+
 In another exercise, I built a UK dashboard showing job change percentages by city, combining a bar chart with a map to make the regional differences really clear.
 
 ### Week 3 — SQL & Databases
@@ -134,6 +136,8 @@ I also worked with a GDP dataset, using Pandas to display subsets of rows and se
 
 **Takeaway:**
 By the end of this week I could confidently use Python and Pandas to clean, transform, and analyse data — a big step up from where I started in Excel.
+
+
 
 
 
