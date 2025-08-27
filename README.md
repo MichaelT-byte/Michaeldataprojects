@@ -11,6 +11,9 @@ This first week was all about getting comfortable with Excel and the basics of w
 * Building pivot tables to quickly summarise sales and customer data.
 * Creating charts to highlight trends, such as customer drop-off at the 12-month renewal stage.
 
+![Excel 1](Images/excel1.png)
+![Excel 2](Images/excel2.png)
+
 **Example:**
 One exercise involved looking at product sales by county (laptops, printers, smartphones). I used a pivot table to break down totals and then applied the `SWITCH()` function to group sales into “High / Medium / Low” categories. In another task, I built visuals that showed customers were most likely to leave at the 12-month renewal point — something you’d definitely want to flag to a business.
 
@@ -26,6 +29,9 @@ In week 2 I moved on from Excel into **data visualisation tools**. We looked at 
 * Built dashboards from scratch using datasets such as UK job changes, Spotify data, and global health stats.
 * Used bar charts, scatterplots, and maps to spot patterns and make the data easier to understand.
 * In Power BI, practiced importing, cleaning, and transforming data, then creating reports and dashboards.
+
+![Power BI 1](Images/powerbi1.png)
+![Power BI 2](Images/powerbi2.png)
 
 **Example:**
 With the health dataset, I looked at cancer rates across countries and compared them with life expectancy. The scatterplots showed that developed countries with longer life expectancy tend to have more cases of stomach and lung cancer (since people live long enough to develop them), while liver cancer rates were higher in some less-developed countries.
@@ -98,6 +104,9 @@ This week was focused on understanding what the cloud actually is, how businesse
 * Covered UK data laws: GDPR, Data Protection Act 2018, Computer Misuse Act, Copyright law, etc.
 * Completed Azure labs exploring relational and non-relational data, plus an introduction to Microsoft Fabric for building data pipelines.
 
+![Azure 1](Images/azure1.png)
+![Azure 2](Images/azure2.png)
+
 **Example:**
 Using the Azure Pricing Calculator, I costed up a simple web application using App Service, Azure SQL Database, and storage accounts. The estimated cost came out at about **\$1554/month**, which really highlights how you need to plan carefully for cloud spend.
 
@@ -142,6 +151,7 @@ I also worked with a GDP dataset, using Pandas to display subsets of rows and se
 
 **Takeaway:**
 By the end of this week I could confidently use Python and Pandas to clean, transform, and analyse data — a big step up from where I started in Excel.
+
 
 
 
